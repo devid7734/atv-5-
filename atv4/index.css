@@ -1,0 +1,64 @@
+/* GERAL */
+* {
+    box-sizing: border-box; 
+    }
+    body {
+    background-color: rgb(216, 193, 240); 
+    font-family: 'Lato', Arial, Helvetica, sans-serif; 
+    }
+    a {
+    
+    text-decoration: none; 
+    
+    }
+    img {
+    width: 90%; 
+    }
+    /* FONTS */
+    h1 {
+    text-align: right; 
+    font-size: 35px; 
+    text-transform: uppercase; 
+    }
+    h2 {
+    text-align: right;
+    }
+    p {
+    width: 430px;
+    margin-bottom: 110px;
+    text-align: right;
+    }
+    /* UTILITIES */
+    .u-margin-small {
+    margin: 5px;
+    }
+    .sobre-conteudo {
+    width: 45%;
+    display: inline-block;
+    }
+    .sobre-imagem {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    }
+    .section-sobre {
+    width: 960px;
+    margin: 0 auto; 
+    margin-top: 100px;
+    }
+    .sobre-conteudo__botoes {
+    text-align: right; 
+    }
+    .btn {
+    padding: 10px 12px;
+    font-size: 16px;
+    
+    }
+    .btn_roxo {
+    background-color: #df0d1f;
+    color: rgb(206, 228, 9); 
+    }
+    .btn_transp {
+    color: #e20f0f;
+    border: 1px solid #df0c76;
+    }
